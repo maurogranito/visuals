@@ -12,7 +12,7 @@ Bem-vindo ao meu portfólio de soluções em Business Intelligence. Cada painel 
 *   Análise da taxa de aprovação por faixa de risco e score.
 *   Diagnóstico dos principais motivos de reprovação para ação corretiva.
 **Impacto:** Tornou-se a ferramenta principal para a gestão do risco de crédito, aumentando a transparência do processo e a velocidade de análise.
-![Dashboard - Motor de Crédito](PBI_-_Motor_de_Crédito.png)
+![Dashboard - Motor de Crédito]([PBI_-_Motor_de_Crédito.png](https://github.com/maurogranito/visuals/blob/main/PBI%20-%20Inadimpl%C3%AAncia.png))
 
 ---
 
