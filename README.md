@@ -48,7 +48,7 @@ Observação importante: todos os modelos abaixo foram criados com dados fictíc
 
 ---
 
-## 🎯 Painel: Farol de Gestão (Tableau de Controle)
+## Painel: Farol de Gestão (Tableau de Controle)
 **Contexto:** Tableau de bordo operacional ("farol") para monitorar a saúde e o status de diversos canais ou unidades de negócio.
 
 **Tecnologias:** Power BI, Consultas diretas a banco de dados.
