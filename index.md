@@ -115,8 +115,7 @@
             <p class="subtitle">Soluções em Business Intelligence para transformar dados complexos em insights acionáveis.</p>
             <div class="contact-bar">
                 <a href="mailto:mldgranito@gmail.com">mldgranito@gmail.com</a> |
-                <a href="https://www.linkedin.com/in/mauro-lucas-granito" target="_blank">LinkedIn</a> |
-                <a href="https://github.com/maurogranito" target="_blank">GitHub</a>
+                <a href="https://www.linkedin.com/in/mauro-lucas-granito" target="_blank">LinkedIn</a>
             </div>
         </div>
     </header>
