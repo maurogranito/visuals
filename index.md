@@ -6,7 +6,7 @@
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
         body { background-color: #f8f9fa; color: #333; line-height: 1.6; }
-        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        .container { max-width: 1600px; margin: 0 auto; padding: 40px; }
         
         header { 
             text-align: center; 
@@ -35,11 +35,25 @@
         
         .dashboard-grid { 
             display: grid; 
-            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); 
-            gap: 2rem; 
+            grid-template-columns: repeat(auto-fit, minmax(600px, 1fr)); 
+            gap: 2.5rem; 
             margin-bottom: 3rem; 
         }
-        @media (max-width: 600px) { .dashboard-grid { grid-template-columns: 1fr; } }
+        @media (max-width: 768px) {
+            .dashboard-grid { 
+                grid-template-columns: 1fr; 
+                gap: 2rem;
+            }
+            .container {
+                padding: 20px;
+            }
+            header {
+                padding: 2rem 1rem;
+            }
+            header h1 {
+                font-size: 2rem;
+            }
+        }
         
         .dashboard-card { 
             background: white; 
