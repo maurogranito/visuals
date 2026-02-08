@@ -36,7 +36,7 @@ Bem-vindo ao meu portfólio de soluções em Business Intelligence. Cada painel 
 *   Análise dos motivos de reprovação para melhoria de processos.
 *   Filtros dinâmicos por equipe comercial, data e tipo de solicitação.
 **Impacto:** Eliminou planilhas manuais, centralizou a informação para toda a equipe comercial e aumentou a taxa de conversão ao identificar gargalos no processo.
-![Dashboard - Propostas](image.png)
+![Dashboard - Propostas](PBI - Visual de Acompanhamento de Planilha.png)
 
 ---
 
