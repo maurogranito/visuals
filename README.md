@@ -6,7 +6,7 @@ Observação importante: todos os modelos abaixo foram criados com dados fictíc
 
 ---
 
-## 📊 Painel: Motor de Crédito & Aprovação
+## Painel: Motor de Crédito & Aprovação
 **Contexto:** Dashboard central para o processo de análise e decisão de crédito, monitorando o fluxo de propostas desde a entrada até a aprovação final.
 
 **Tecnologias:** Power BI, SQL, Integração de dados transacionais.
@@ -20,7 +20,7 @@ Observação importante: todos os modelos abaixo foram criados com dados fictíc
 
 ---
 
-## 🚨 Painel: Gestão de Risco e Inadimplência
+## Painel: Gestão de Risco e Inadimplência
 **Contexto:** Sistema de monitoramento proativo da carteira de clientes, focado na identificação de sinais de inadimplência por safra e faixa de risco.
 
 **Tecnologias:** Power BI, Modelo de dados estrela, DAX avançado.
@@ -34,7 +34,7 @@ Observação importante: todos os modelos abaixo foram criados com dados fictíc
 
 ---
 
-## ✅ Painel: Controle de Propostas Comerciais
+## Painel: Controle de Propostas Comerciais
 **Contexto:** Painel de gestão operacional para o acompanhamento do pipeline de vendas B2B, desde a proposta até a efetivação do contrato.
 
 **Tecnologias:** Power BI, Google Sheets, API.
