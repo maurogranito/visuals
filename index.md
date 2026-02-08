@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -164,8 +163,8 @@
             </div>
 
             <div class="dashboard-card">
-                <div class="card-image">
-                    <img src="PBI%20-%20Visual%20de%20Acompanhamento%20de%20Planilha.png" alt="Dashboard Propostas Comerciais">
+                <div class="card-image"> 
+                    <img src="PBI%20-%20VIsual%20de%20Acompanhamento%20de%20Planilha.png" alt="Dashboard Propostas Comerciais">
                 </div>
                 <div class="card-content">
                     <h2>Controle de Propostas Comerciais</h2>
