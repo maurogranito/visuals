@@ -1,2 +1,2 @@
-# visuals
-Paineis de Power BI criados por Mauro Granito
+# Portfólio de PBIs
+criado por Mauro Granito
