@@ -16,7 +16,7 @@ Observação importante: todos os modelos abaixo foram criados com dados fictíc
 *   Análise da taxa de aprovação por faixa de risco e score.
 *   Diagnóstico dos principais motivos de reprovação para ação corretiva.
   
-![Dashboard - Motor de Crédito](https://github.com/maurogranito/visuals/blob/main/PBI%20-%20Motor%20de%20Cr%C3%A9dito.png)
+![Dashboard - Motor de Crédito](https://raw.githubusercontent.com/maurogranito/visuals/main/PBI%20-%20Motor%20de%20Crédito.png)
 
 ---
 
@@ -44,7 +44,7 @@ Observação importante: todos os modelos abaixo foram criados com dados fictíc
 *   Análise dos motivos de reprovação para melhoria de processos.
 *   Filtros dinâmicos por equipe comercial, data e tipo de solicitação.
   
-![Dashboard - Motor de Crédito](https://github.com/maurogranito/visuals/blob/main/PBI%20-%20VIsual%20de%20Acompanhamento%20de%20Planilha.png)
+![Dashboard - Acompanhamento de Planilha](https://raw.githubusercontent.com/maurogranito/visuals/main/PBI%20-%20VIsual%20de%20Acompanhamento%20de%20Planilha.png)
 
 ---
 
@@ -57,7 +57,7 @@ Observação importante: todos os modelos abaixo foram criados com dados fictíc
 *   Visualização geral dos canais de venda por farol (medida interna).
 *   Visual de Tabela simples para download.
   
-![Dashboard - Motor de Crédito](https://github.com/maurogranito/visuals/blob/main/PBI%20-%20Tabela%20Simples.png)
+![Dashboard - Tabela Simples](https://raw.githubusercontent.com/maurogranito/visuals/main/PBI%20-%20Tabela%20Simples.png)
 
 ---
 *Contato: mldgranito@gmail.com | LinkedIn: [https://www.linkedin.com/in/mauro-lucas-granito](https://www.linkedin.com/in/mauro-lucas-granito)*
