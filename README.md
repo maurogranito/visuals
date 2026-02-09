@@ -48,6 +48,20 @@ Observação importante: todos os modelos abaixo foram criados com dados fictíc
 
 ---
 
+## Painel: Visão de Fraude (Versão Beta)
+**Contexto:** Dashboard focado na análise e prevenção de fraude dentro do processo de crédito, monitorando comportamentos suspeitos, abandonos de carrinho e padrões de risco..
+
+**Tecnologias:** Power BI, SQL.
+
+**Principais Funcionalidades:**
+*   Monitoramento de propostas suspeitas e análises de fraude realizadas.
+*   Segmentação entre problemas do cliente vs. processos internos no abandono.
+*   Visão comparativa entre aprovações, reprovações e abandonos.
+  
+![Dashboard - Visão Fraude (Beta)](https://raw.githubusercontent.com/maurogranito/visuals/main/PBI%20-%20Fraude.png)
+
+---
+
 ## Painel: Farol de Gestão (Tableau de Controle)
 **Contexto:** Tableau de bordo operacional ("farol") para monitorar a saúde e o status de diversos canais ou unidades de negócio.
 
