@@ -49,7 +49,7 @@ Observação importante: todos os modelos abaixo foram criados com dados fictíc
 ---
 
 ## Painel: Visão de Fraude (Versão Beta)
-**Contexto:** Dashboard focado na análise e prevenção de fraude dentro do processo de crédito, monitorando comportamentos suspeitos, abandonos de carrinho e padrões de risco..
+**Contexto:** Dashboard focado na análise e prevenção de fraude dentro do processo de crédito, monitorando comportamentos suspeitos, abandonos de carrinho e padrões de risco.
 
 **Tecnologias:** Power BI, SQL.
 
