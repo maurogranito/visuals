@@ -48,17 +48,18 @@ Observação importante: todos os modelos abaixo foram criados com dados fictíc
 
 ---
 
-## Painel: Visão de Fraude (Versão Beta)
-**Contexto:** Dashboard focado na análise e prevenção de fraude dentro do processo de crédito, monitorando comportamentos suspeitos, abandonos de carrinho e padrões de risco.
+## Painel: Visão de KYC (Versão Beta)
+
+**Contexto:** Dashboard focado no acompanhamento do processo de Know Your Client (KYC), oferecendo visibilidade sobre a jornada do cliente desde a proposta até a decisão final, com apoio à análise de qualidade cadastral e validações de identidade.
 
 **Tecnologias:** Power BI, SQL.
 
 **Principais Funcionalidades:**
-*   Monitoramento de propostas suspeitas e análises de fraude realizadas.
-*   Segmentação entre problemas do cliente vs. processos internos no abandono.
-*   Visão comparativa entre aprovações, reprovações e abandonos.
+*   Monitoramento do status das validações de KYC (documentos, biometria, contato e dados cadastrais).
+*   Visão comparativa entre aprovações, reprovações e abandonos, destacando o impacto das etapas de KYC.
+*   Indicadores de performance do fluxo de KYC para suporte à tomada de decisão operacional e estratégica.
   
-![Dashboard - Visão Fraude (Beta)](https://raw.githubusercontent.com/maurogranito/visuals/main/PBI%20-%20Fraude.png)
+![Dashboard - Visão Fraude (Beta)](https://github.com/maurogranito/visuals/blob/main/PBI%20-%20KYC.jpg)
 
 ---
 
