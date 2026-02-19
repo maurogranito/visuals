@@ -194,6 +194,23 @@
 
             <div class="dashboard-card">
                 <div class="card-image">
+                    <img src="PBI%20-%20KYC.jpg" alt="Dashboard KYC">
+                </div>
+                <div class="card-content">
+                    <h2>Visão de KYC (Versão Beta)</h2>
+                    <p class="context"><strong>Contexto:</strong> Dashboard focado no acompanhamento do processo de Know Your Client (KYC), oferecendo visibilidade sobre a jornada do cliente desde a proposta até a decisão final.</p>
+                    <p class="tech"><strong>Tecnologias:</strong> Power BI, SQL.</p>
+                    <strong>Principais Funcionalidades:</strong>
+                    <ul>
+                        <li>Monitoramento do status das validações de KYC (documentos, biometria, contato e dados cadastrais).</li>
+                        <li>Visão comparativa entre aprovações, reprovações e abandonos.</li>
+                        <li>Indicadores de performance do fluxo de KYC para suporte à tomada de decisão operacional e estratégica.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="dashboard-card">
+                <div class="card-image">
                     <img src="PBI%20-%20Tabela%20Simples.png" alt="Dashboard Tabela Farol">
                 </div>
                 <div class="card-content">
